@@ -6,6 +6,8 @@ A project made by Kantaphon Sujjapong to classify a mango leaf image given by th
 
 *⚠️ This project is under development, please use it at your own risk.*
 
+---
+
 ### Key Features
 
 **Leaf Classification:** Predicts 3 Thai mango leaf types using a fine-tuned MobileNetV3-Large model.
