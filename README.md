@@ -12,7 +12,7 @@ A project made by Kantaphon Sujjapong to classify a mango leaf image given by th
 
 **- OOD Filtering**: Uses a None class to handle non-leaf or irrelevant pictures smoothly.
 
-**- Auto Preprocessing:** Automatically removes background noises with rembg and resizes images to $224 \times 224$ before guessing.
+**- Auto Preprocessing:** Automatically removes background noises with rembg and resizes images to 224x224 before guessing.
 
 ---
 
