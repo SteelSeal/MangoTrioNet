@@ -2,8 +2,6 @@
 
 A project made by Kantaphon Sujjapong to classify a mango leaf image given by the user. (Capable of 3 classes: FaLan, Keaw_Sawoey, NamDokMai_Seethong and including a None class for out-of-distribution detection)
 
-* When running one of these notebooks, you might encounter errors at the import cell. Just **restart your colab runtime** and **run everything again.**
-
 *⚠️ This project is under development, please use it at your own risk.*
 
 ---
@@ -25,3 +23,8 @@ Medium - https://medium.com/@gunwinner07/mangotrionet-c297a1f1d9f1
 
 ---
 
+### How to Run
+
+* Open the notebooks in **Google Colab**.
+* Switch runtime to **GPU** for faster training and inference.
+* If you run into import errors on the first cell, go to **Runtime ➔ Restart Session** and run it again.
