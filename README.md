@@ -2,17 +2,17 @@
 
 A project made by Kantaphon Sujjapong to classify a mango leaf image given by the user. (Capable of 3 classes: FaLan, Keaw_Sawoey, NamDokMai_Seethong and including a None class for out-of-distribution detection)
 
-* When running one of these notebooks, you might encounter errors at the import cell. Just restart your colab runtime and run everything again.
+* When running one of these notebooks, you might encounter errors at the import cell. Just **restart your colab runtime** and **run everything again.**
 
 *⚠️ This project is under development, please use it at your own risk.*
 
 Key Features
 
-Leaf Classification: Predicts 3 Thai mango leaf types using a fine-tuned MobileNetV3-Large model.
+**Leaf Classification:** Predicts 3 Thai mango leaf types using a fine-tuned MobileNetV3-Large model.
 
-OOD Filtering: Uses a None class to handle non-leaf or irrelevant pictures smoothly.
+**OOD Filtering**: Uses a None class to handle non-leaf or irrelevant pictures smoothly.
 
-Auto Preprocessing: Automatically removes background noises with rembg and resizes images to $224 \times 224$ before guessing.
+**Auto Preprocessing:** Automatically removes background noises with rembg and resizes images to $224 \times 224$ before guessing.
 
 ---
 
